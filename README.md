@@ -9,12 +9,12 @@
  ____) | |  | | |__| | | \ \  | | | |____| |__| |   | |   
 |_____/|_|  |_|\____/|_|  \_\ |_|  \____/ \____/    |_|   
                                                            
-                          [ VERSION 4.0 - STABLE ]
+                          [ VERSION 1.0 - STABLE ]
 ==============================================================================
 
 [ SYSTEM INFORMATION ]
 ------------------------------------------------------------------------------
-> CREATOR      : RIKU
+> CREATOR      : ZenDev
 > COLLAB       : GEMINI AI
 > ENVIRONMENT  : AUTOHOTKEY V2.0 (ADMIN MODE)
 > STATUS       : ACTIVE / PROTECTED
