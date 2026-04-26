@@ -63,5 +63,5 @@ A: Cari icon [H] hijau di Taskbar (pojok kanan bawah), Klik Kanan > Exit.
    LED NumLock bakal bisa dimatiin normal lagi setelah script mati.
 
 ------------------------------------------------------------------------------
-       COPYRIGHT (C) 2024-2028 ZenDev. ALL RIGHTS RESERVED. [TERMINAL END]
+       COPYRIGHT (C) 2024 ZenDev. ALL RIGHTS RESERVED. [TERMINAL END]
 ------------------------------------------------------------------------------
